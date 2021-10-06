@@ -1,5 +1,8 @@
 # Book-Search-Engine
 
+## Main Frameworks Used
+React.js, MongoDB, Apollo Server, GraphQL API  -- refactoring from RESTful API to GraphQL API
+
 ## User Story
 
 ```md
